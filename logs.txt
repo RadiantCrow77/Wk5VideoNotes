@@ -1,0 +1,5 @@
+
+INFO: Thu Apr 13 23:10:04 MDT 2023 - Hello
+WARNING: Thu Apr 13 23:10:04 MDT 2023 - This is a warning!
+ERR: Thu Apr 13 23:10:04 MDT 2023 - This is an error!
+FATAL: Thu Apr 13 23:10:04 MDT 2023 - Fatal error!
